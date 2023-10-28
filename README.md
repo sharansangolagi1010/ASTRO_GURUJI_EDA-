@@ -1,4 +1,4 @@
-# Guruji_porgram
+# ASTRO Guruji_Program
 
 Introduction:
 Welcome to the first-round interview assignment for the Data Analyst position at Guruji Astro. In this assignment, you will be working with a dataset that contains call center performance data. Your task is to perform data analysis and provide insights based on the provided dataset.
